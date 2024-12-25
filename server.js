@@ -1,4 +1,3 @@
-// server.js
 import express from 'express';
 import mongoose from 'mongoose';
 import crawlerRoutes from './routes/crawler.routes.js';
